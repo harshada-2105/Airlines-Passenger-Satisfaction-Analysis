@@ -28,4 +28,5 @@ The main goal of this project is to understand passenger demographics and their 
 ## Operational Insights and Delay Impact
 <img width="1918" height="973" alt="Operational Insights and Delays Impact" src="https://github.com/user-attachments/assets/403d2c79-8721-4272-a6a5-6f59f047645e" />
 
-
+## Conclusion
+This project shows that passenger satisfaction depends on both service quality and operational performance. By identifying the most valued services, highlighting weak areas, and analyzing the effect of delays, the dashboards provide clear insights for improvement. These findings can help airlines enhance customer experience, build loyalty, and stay competitive.
