@@ -1,2 +1,3 @@
-# Airlines-Passenger-Satisfaction-Analysis
-This Tableau project analyzes airline passenger satisfaction by studying demographics, service ratings, and delay impacts. Dashboards with KPIs and charts reveal who is satisfied, which services need improvement, and how delays affect loyalty, helping airlines improve customer experience.
+# Airlines-Passenger-Satisfaction-Analysis (Dashboard creation using Tableau)
+### Project Objectives
+The main goal of this project is to understand passenger demographics and their satisfaction levels, identify the best and worst service areas, and measure how delays and flight operations affect the travel experience. It also focuses on tracking key KPIs for service quality and loyalty, while providing insights that can help airlines improve customer experience.
