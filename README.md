@@ -7,10 +7,25 @@ The main goal of this project is to understand passenger demographics and their 
 
 ### Process
 -Import and clean the dataset.
+
 -Ceate calculated fields and KPIs.
+
 -Design three dashboards – Overview, Services, and Operations.
+
 -Add charts, filters, and KPIs to each dashboard.
+
 -Format dashboards and add navigation buttons.
+
 -Analyze results and draw conclusions.
 
+# Dashboards
 ## Passenger Demographics & Overview
+<img width="1908" height="973" alt="Passenger Demographics and Overview" src="https://github.com/user-attachments/assets/5e17d086-3c8f-488d-b088-f89804870f15" />
+
+## Service Insights
+<img width="1914" height="974" alt="Service Insights" src="https://github.com/user-attachments/assets/0b642a4c-1cd6-4b20-916e-cc6edc0fd65c" />
+
+## Operational Insights and Delay Impact
+<img width="1918" height="973" alt="Operational Insights and Delays Impact" src="https://github.com/user-attachments/assets/403d2c79-8721-4272-a6a5-6f59f047645e" />
+
+
